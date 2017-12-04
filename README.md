@@ -1,2 +1,4 @@
 # LoginConcept-Template
-Login-Logout Animation Concept
+
+A login-logout animation concept.
+
