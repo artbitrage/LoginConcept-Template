@@ -18,7 +18,7 @@ A simple, but secure PHP login script.
 * PHP 5.5
 * BLOWFISH hashing/salting functions
 
-
+<br />
 
 Copyright (c) 2017 Syafiq Hadzir (Alexandrov)
 
