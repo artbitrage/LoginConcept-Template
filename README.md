@@ -24,6 +24,15 @@ A simple, but secure PHP login script.
 
 * PHP 5.3.7+ (with PDO and SQLite extension activated)
 
+## Installation
+
+Run the install script `_install.php` in the `_installation` folder which will create a `users.db` file (the database).
+
+## License
+
+Licensed under [MIT](http://www.opensource.org/licenses/mit-license.php). You can use this script for free for any
+private or commercial projects.
+
 <br />
 
 Copyright (c) 2017 Syafiq Hadzir (Alexandrov)
