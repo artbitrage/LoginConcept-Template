@@ -11,12 +11,18 @@
     </a>
 </p>
 
+## Features
+
 A simple, but secure PHP login script.
 
 * No installation needed.
 * Ultra-modern & future-proof
 * PHP 5.5
 * BLOWFISH hashing/salting functions
+
+## Requirements
+
+* PHP 5.3.7+ (with PDO and SQLite extension activated)
 
 <br />
 
