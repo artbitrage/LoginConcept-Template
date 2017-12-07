@@ -13,8 +13,10 @@
 
 A simple, but secure PHP login script.
 
-.*No installation needed.
-.*Ultra-modern & future-proof PHP 5.5. BLOWFISH hashing/salting functions (includes the official PHP 5.3 & PHP 5.4 compatibility pack, which makes these functions available in these versions too).
+* No installation needed.
+* Ultra-modern & future-proof
+* PHP 5.5
+* BLOWFISH hashing/salting functions
 
 
 
